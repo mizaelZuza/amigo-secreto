@@ -1,6 +1,6 @@
 **Título**: Amigo Secreto
 
-**Descrição**: Este é um sistema simples de lista de amigos desenvolvido em JavaScript. Permite adicionar nomes à lista, verificar se o nome já existe na lista e exibir os nomes da lista de forma aleatoria, simulando um sorteio. 
+**Descrição**: Este é um sistema simples de lista de amigos desenvolvido em JavaScript. Permite adicionar nomes à lista, verificar se o nome já existe na lista e exibir os nomes da lista de forma aleatoria, simulando um sorteio de amigo secreto. 
 
 **Funcionalidades**:
 
